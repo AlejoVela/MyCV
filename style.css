@@ -1,0 +1,96 @@
+.image {
+    /*background: url("./img/DiegoSiigo.png");*/
+    height: 300px;
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+
+.options {
+    /* barra de opciones */
+    height: 100px;
+    background: #C4C4C4;
+}
+
+.contact-info {
+    height: 52%;
+    color: white;
+    background: #273448;
+}
+
+.menu {
+    /* Rectangle 4 */
+    height: 524px;
+    background: #332F4A;
+}
+
+.item {
+    padding-top: 35px;
+}
+
+.item1 {
+    background: #4D6F38;
+
+}
+.item1:hover {
+    background: #456630;
+
+}
+.item2 {
+
+    background: #38686F;
+}
+.item2:hover {
+
+    background: #325f66;
+}
+.item3 {
+
+    background: #38516F;
+}
+.item3:hover {
+
+    background: #2f4663;
+}
+.item4 {
+
+    background: #38476F;
+}
+.item4:hover {
+
+    background: #2e3a5c;
+}
+.item5 {
+
+    background: #43386F;
+}
+.item5:hover {
+
+    background: #2e264e;
+}
+.item6 {
+
+    background: #64386F;
+}
+.item6:hover {
+
+    background: #542f5e;
+}
+.item7 {
+
+    background: #6F384F;
+}
+.item7:hover {
+
+    background: #57293c;
+}
+.fade{
+    opacity: 0.2;
+    -webkit-transition: opacity 0.3s;
+   transition: opacity 0.3s;
+}
+.fade:hover {
+    opacity: 1;
+}
